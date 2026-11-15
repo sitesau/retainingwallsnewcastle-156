@@ -1,0 +1,22 @@
+{
+  "wheel_id": 903,
+  "structure": "umbrella",
+  "slug": "retainingwallsnewcastle-156",
+  "project": "retaining-wall-contractors-newcastle-maintenance-9e2dbd9ba9852f",
+  "parent_t1_ref": "retainingwallsnewcastle-012",
+  "node_role": "buffer",
+  "money_target": "retainingwallsnewcastle.com.au",
+  "primary_kw": "retaining wall contractors newcastle maintenance",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-contractors-newcastle-maintenance-9e2dbd9ba9852f/",
+  "tier": "T2",
+  "writeback_nonce": "c14a2dea1252ebef",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-wall-contractors-newcastle-012/",
+      "anchor": "Retaining Wall Contractors Newcastle: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
